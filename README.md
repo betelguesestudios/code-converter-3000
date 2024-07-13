@@ -1,4 +1,4 @@
 # code-converter-3000
 Convert anything to anything with the power of ai!
 
-Open the converter.html in file explorer/whatever you use to open .html files and enjoy :)
+Go to https://betelguesestudios.github.io/code-converter-3000/ to have a go!
