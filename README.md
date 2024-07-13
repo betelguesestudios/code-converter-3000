@@ -1,5 +1,4 @@
 # code-converter-3000
 Convert anything to anything with the power of ai!
 
-```javascript
-console.log('Hello, world!');
+Open the converter.html in file explorer/whatever you use to open .html files and enjoy :)
